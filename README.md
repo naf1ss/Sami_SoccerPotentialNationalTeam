@@ -1,5 +1,4 @@
-# Sami_SoccerPotentialNationalTeam
-# 🧠 Predicting National Team Selection in Soccer (2023–24 Season)
+# Predicting National Team Selection in Soccer (2023–24 Season)
 
 This project aims to predict whether a professional soccer player will be selected for their national team based on club-level performance metrics using logistic regression.
 
